@@ -1,6 +1,9 @@
 # image_edition_software
 
-A QT/C++ project\n
--learning about QT\n
--photo edit and save\n
+A QT/C++ project
+
+-learning about QT
+
+-photo edit and save
+
 -learning image/pixel manipulation
